@@ -24,4 +24,4 @@ By analyzing total sales (TotalDue) over time and across products, we can:
 
 ---
 
-👩‍💻 *Created by Leena M.Salih – Civil Engineer & Data Analyst*
+👩‍💻 *Created by Leena Bakri – water Engineer & Data Analyst*
