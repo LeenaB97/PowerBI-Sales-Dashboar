@@ -1,6 +1,6 @@
 # Power BI Sales Dashboard
 <p align="center">
-  <img src="dashboard.png" alt="Power BI Dashboard" width="800">
+  <img src="Dashboard.png" alt="Power BI Dashboard" width="800">
 </p>
 
 This project is an interactive **Power BI dashboard** designed to analyze and visualize sales performance data.
